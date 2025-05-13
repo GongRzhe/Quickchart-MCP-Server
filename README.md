@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gongrzhe-quickchart-mcp-server-badge.png)](https://mseep.ai/app/gongrzhe-quickchart-mcp-server)
+
 # quickchart-server MCP Server
 
 ![image](https://github.com/user-attachments/assets/1093570f-7c6b-4e5f-ad69-f8a9f950376a)
